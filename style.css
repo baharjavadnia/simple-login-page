@@ -8,3 +8,22 @@
     background-position: center;
     background-repeat: no-repeat;
 }
+body{
+    background-color: #bebebe;
+    }
+    h1{
+        color: #3b234d;
+        text-align: center;
+        font-size: 85px;
+        font-family: 'Star Jedi';
+    }
+    h3{
+        color: rgb(84, 36, 132);
+        text-align: center;
+        font-family: 'Usuzi';
+        font-size: 50px;
+    }
+    p{
+        color: rgb(113, 49, 104);
+        text-align: center;
+    }
