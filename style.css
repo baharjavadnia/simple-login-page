@@ -28,39 +28,20 @@ body{
         font-weight: 600;
     }
     p{
-        color: rgb(113, 49, 104);
+        color: rgb(255, 207, 118);
         text-align: center;
     }
       
-      .button1 {
+      .btn {
         background-color: hwb(40 61% 2%);
-        outline-offset: 0;
-        color: rgb(58, 58, 58);
-        padding: 18px 18px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 20px;
-        margin: 4px 2px;
-    }
-      .button2 {
-        background-color: hwb(40 61% 2%);
-        outline-offset: 0;
-        color: rgb(58, 58, 58);
-        padding: 18px 18px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 20px;
-        margin: 4px 2px;
-    }
-    .btn {
-        font-size: 0.8rem;
-        font-weight: 700;
+        color: rgb(94, 93, 93);
+        border-radius: 12px;
+        font-size: 16px;
+        font-weight: 800;
     }
 
-    .btn i {
-        vertical-align: text-top;
+    .button i {
+        vertical-align: middle;
     }
     .divider-content-center{
         position: absolute;
@@ -75,4 +56,10 @@ body{
     }
     .divider{
         margin: 2rem 0;
+    }
+    a {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
     }
