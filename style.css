@@ -16,15 +16,16 @@ body{
     h1{
         color: #d73e0b;
         text-align: center;
-        font-size: 95px;
+        font-size: 80px;
         font-family: 'Nunito Sans';
-        font-weight: 900;
+        font-weight: 500;
     }
     h3{
         color: rgb(216, 70, 17);
         text-align: center;
         font-family: 'Nunito Sans';
-        font-size: 50px;
+        font-size: 70px;
+        font-weight: 600;
     }
     p{
         color: rgb(113, 49, 104);
